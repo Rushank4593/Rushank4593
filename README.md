@@ -1,42 +1,91 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<!-- README.md for Sai Rushank Ketha / profile README -->
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<!-- Header -->
+<div align="center">
+  <h1>Hi, I'm Sai Rushank 👋</h1>
+  <p><strong>Cybersecurity Professional • SOC Ops • Incident Response • Threat Hunting</strong></p>
 
-- <b> Honeypot Automation </b>
-  - [SSH Honeypot Deployment for Attack Surface Monitoring](https://github.com/Rushank4593/Honeypot-Automation/blob/main/Honeypot%20Automation%201de5b3674a8b80ec8074f9abc6512ae8.md)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  <!-- Badges -->
+  <p>
+    <img alt="CompTIA Security+" src="https://img.shields.io/badge/Cert-CompTIA%20Security%2B-blue?style=flat-square" />
+    <img alt="ISC2 CC" src="https://img.shields.io/badge/Cert-ISC2%20CC-blueviolet?style=flat-square" />
+    <img alt="Code Path Cybersecurity" src="https://img.shields.io/badge/Cert-Code Path Cybersecurity-black?style=flat-square" />
+    <img alt="Google Cybersecurity Professional" src="https://img.shields.io/badge/OS-Google Cybersecurity Professional-darkgreen?style=flat-square" />
+  </p>
 
-<h2>📺 Certificates</h2>
+  <!-- Short summary -->
+  <p align="center">Master's in Cybersecurity (UT Dallas), Skilled in Splunk, Wireshark, and Nmap, with proven results including reducing malicious attacks by 79% and cutting incident response time by 75%, passionate about strengthening security postures through threat hunting, log analysis, and automation.</p>
+</div>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🔎 Quick links
+- 📄 [Resume](https://www.notion.so/About-Me-1f35b3674a8b80b2b204c810b54d0045)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-rushank/)
+- 🗂️ [Notion: Projects & Notes](https://curse-avatar-fe7.notion.site/1835b3674a8b802bb8e3d8c66c59b521?v=23e5b3674a8b8068afc5000c32905991)
+- 💼 [Portfolio (Bold)](https://bold.pro/my/sairushank-ketha)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+## 🧰 Skills & Tools
+| Category | Tools / Technologies |
+|---|---|
+| Scripting & Dev | Python, Bash, Java |
+| Security Tools | Splunk, Wireshark, Nmap, Metasploit, Snort, Shodan, VirusTotal |
+| Cloud & Infra | AWS basics, IAM concepts |
+| OS / Platforms | Kali Linux, ParrotOS, Windows, macOS |
+| Concepts | Incident Response, Vulnerability Management, MITRE ATT&CK, NIST CSF |
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+
+## 🚀 Featured Projects
+> Short descriptions + quick links to demos / writeups.
+
+### 🔐 SSH Honeypot — Attack Surface Monitoring (Capstone)
+- Deployed an SSH honeypot in a virtual lab, captured 100+ login attempts and command logs.
+- Improved behavioral detection and alert readiness by ~20%.
+- Link: https://www.notion.so/Honeypot-Automation-1de5b3674a8b80ec8074f9abc6512ae8
+
+### 📊 SOC Operations Simulation using Splunk
+- Built Splunk dashboards and real-time alerts to analyze SolarWinds IOC data.
+- Correlated 200+ threat IP indicators and improved detection accuracy by ~30%.
+- Link: https://www.notion.so/Splunkin-Around-1f25b3674a8b80c4afeae93ac31a57dc
+
+### 🧪 Additional / Learning Projects
+- SSH Honeypot write-up, Splunk dashboards, IOC correlation demos — see Notion links above.
+
+---
+
+## 🎓 Education & Certifications
+- **M.S.** — Computer & Information System Security (UT Dallas) — Aug 2025  
+- **B.Tech** — Computer Science & Engineering (PES University) — Jan 2023  
+- Certifications: CompTIA Security+, ISC2 CC, Google Cybersecurity Professional, CodePath Cybersecurity. (CYSA+ — In Progress)
+
+---
+
+## 💼 Experience Highlights
+**Cyber Defense Center — Cybersecurity Intern** (Aug 2025 – Nov 2025)  
+- Managed Splunk to monitor system logs (improved monitoring accuracy by 30%).  
+- Created IOCs and correlated multi-source logs across 50+ systems (reduced IR time by 75%).  
+
+**Gita Life (UTD) — Club Coordinator** (Mar 2024 – Aug 2025)  
+- Hosted weekly secure Zoom sessions, automated attendance reports, increased engagement by 40%.
+
+---
+
+## 📺 Content & Writeups
+- How to get into Cybersecurity Starting From Zero  
+- A Day in the Life of a Cybersecurity Analyst  
+- Ransomware Demonstration (C#)  
+*(Links to video/articles can go here — add GitHub Pages or YouTube links if you have them.)*
+
+---
+
+## 🧩 Contact & Connect
+<p>
+  <a href="mailto:sairushank.ketha@utdallas.edu">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/sai-rushank/">LinkedIn</a> •
+  <a href="https://curse-avatar-fe7.notion.site/1835b3674a8b802bb8e3d8c66c59b521?v=23e5b3674a8b8068afc5000c32905991">Notes/Projects</a>
+</p>
+
+---
