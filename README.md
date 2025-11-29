@@ -46,10 +46,10 @@
 - Improved behavioral detection and alert readiness by ~20%.
 - Link: [Honetpot Automation](https://github.com/Rushank4593/Honeypot-Automation/blob/main/Honeypot%20Automation%201de5b3674a8b80ec8074f9abc6512ae8.md)
 
-### 📊 SOC Operations Simulation using Splunk
-- Built Splunk dashboards and real-time alerts to analyze SolarWinds IOC data.
-- Correlated 200+ threat IP indicators and improved detection accuracy by ~30%.
-- Link: https://www.notion.so/Splunkin-Around-1f25b3674a8b80c4afeae93ac31a57dc
+### 📊 Digital Forensic Analysis
+- Analyzed 30+ PCAP files using Wireshark and SMTP filters to investigate Business Email Compromise (BEC) and phishing attacks.
+- Detected 15+ malicious IP addresses and recurring phishing patterns by performing deep packet inspection and email header analysis, enhancing organizational incident detection capabilities.
+- Link: [Email Compromise and Phishing Attacks](https://github.com/Rushank4593/Digital-Forensic-Analysis/blob/4f2834fae2c0be7cd379982dbf7ccf4f0cbd20b0/Digital%20Forensic%20Analysis%201a65b3674a8b8009bbcfcf422c894c1c.md)
 
 ### 🧪 Additional / Learning Projects
 - SSH Honeypot write-up, Splunk dashboards, IOC correlation demos — see Notion links above.
