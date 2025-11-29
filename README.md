@@ -44,7 +44,7 @@
 ### 🔐 SSH Honeypot — Attack Surface Monitoring (Capstone)
 - Deployed an SSH honeypot in a virtual lab, captured 100+ login attempts and command logs.
 - Improved behavioral detection and alert readiness by ~20%.
-- Link: https://www.notion.so/Honeypot-Automation-1de5b3674a8b80ec8074f9abc6512ae8
+- Link: [Honetpot Automation](https://github.com/Rushank4593/Honeypot-Automation/blob/main/Honeypot%20Automation%201de5b3674a8b80ec8074f9abc6512ae8.md)
 
 ### 📊 SOC Operations Simulation using Splunk
 - Built Splunk dashboards and real-time alerts to analyze SolarWinds IOC data.
